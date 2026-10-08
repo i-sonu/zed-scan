@@ -1,0 +1,18 @@
+# Python environment
+venv/
+__pycache__/
+*.pyc
+
+# ZED recordings (large binaries)
+*.svo
+*.svo2
+
+# Reconstruction outputs
+*.obj
+*.mtl
+*.png
+room*.jpg
+
+# Extracted photogrammetry frames
+frames/
+frames.zip
